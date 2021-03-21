@@ -1,0 +1,13 @@
+# Algoritmo de Decision Tree
+
+ Situação problema: 
+ 
+ Dado alguns fatores climáticos, decida se pode ou não acontecer um
+ jogo de tênis.
+ Jogar Tênis:
+ 2 classes: ("Não": 0, "Sim": 1)
+ 4 atributos:
+   - Tempo ("Ensolarado": 0, "Nublado": 1, "Chuvoso": 2)
+   - Temperatura ("Agradável": 0, "Moderada": 1, "Quente": 2)
+   - Humidade ("Normal": 0, "Alta": 1)
+   - Vento ("Fraco": 0, "Forte": 1)
